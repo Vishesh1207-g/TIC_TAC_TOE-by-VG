@@ -1,8 +1,7 @@
- Author	 : VISHESH GOYAL
+ <h2> Author	 : VISHESH GOYAL
  Date		 : 12/07/2024
+  
 <br>
- 
-
 ------------------------------------------------------
   Project -  A program that allows a person to play tic-tac-toe
  against the computer(if you don't know tic-tac-toe, see game rules below).
