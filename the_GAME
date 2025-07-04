@@ -4,8 +4,8 @@
 #include <limits.h>
 #include <ctype.h>
 
-/* Constants for TTT game board symbols. */
-#define EMPTY  ' '
+/* Constants for TTT game board symbols. */ 
+#define EMPTY  ' ' 
 #define USER 'O'
 #define COMPUTER 'X'
 
